@@ -19,3 +19,4 @@
 - Change bank and preset from top app bar
 - Stomp view
 - Tempo button
+my
